@@ -1,0 +1,2 @@
+# SESMag
+AI agent
