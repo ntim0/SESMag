@@ -9,14 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@prisma/client": "^7.1.0",
+    "@prisma/client": "^6.2.1",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "multer": "^2.0.2",
     "next": "16.0.10",
     "openai": "^6.10.0",
     "pdf-parse": "^2.4.5",
-    "prisma": "^7.1.0",
+    "prisma": "^6.2.1",
     "react": "19.2.1",
     "react-dom": "19.2.1"
   },
